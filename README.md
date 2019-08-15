@@ -11,12 +11,15 @@
 
 ### 🏠 [biubiu-颜值超高的浏览器](https://apps.apple.com/cn/app/id1474593656)
 
-
-## 安装
+## Install
 
 ```sh
 git clone https://github.com/whatsbug/IIGuideViewController
 ```
+
+## Preview
+
+![preview](/preview.gif) 
 
 ## Author
 
@@ -31,9 +34,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-如果这个项目对你有帮助的话，给颗小⭐️呗！(自愿哈不强求) 
+如果这个项目对你有帮助的话，给颗小⭐️⭐️呗！
 
 ## 📝 License
 
 版权 ©2019 [@biubiu浏览器](https://weibo.com/nantuapp).
-
