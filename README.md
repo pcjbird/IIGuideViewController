@@ -34,7 +34,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-如果这个项目对你有帮助的话，给颗小⭐️⭐️呗！
+如果这个项目对你有帮助的话，给颗小⭐️⭐️呗！(其实不给也没关系的🐶)
 
 ## 📝 License
 
