@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-git clone https://github.com/whatsbug/IIGuideViewController
+git clone https://github.com/whatsbug/IIGuideViewController.git
 ```
 
 ## Preview
